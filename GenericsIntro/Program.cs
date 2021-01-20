@@ -12,10 +12,7 @@ namespace GenericsIntro
             isimler.Add("Turan");
             isimler.Add("Halil");
 
-            foreach (MyList isim in isimler)
-                {
-                Console.WriteLine(isim);
-            }
+            
         }
     }
 }
